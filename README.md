@@ -36,12 +36,12 @@ GCP Migration Simulation
 Simulated migration of on-premises systems to Google Cloud Platform, optimizing costs and resources.
 
 🌐 Live Portfolio
-View my portfolio here:
-https://Dev-Life.github.io/ (Replace with your real GitHub username)
+View my portfolio here:https:Dev-Life/github.io
+
 
 📫 Connect with Me
-LinkedIn: https://linkedin.com/in/rodney-l-sanders
+LinkedIn:https://linkedin.com/in/rodney-l-sanders
 
-GitHub: github.com/phmw7
+Github:https://github.com/phmw7
 
 Email: rdy.sanders@gmail.com
