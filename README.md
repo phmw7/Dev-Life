@@ -35,8 +35,8 @@ Automated testing and deployment workflows for a Python application.
 GCP Migration Simulation
 Simulated migration of on-premises systems to Google Cloud Platform, optimizing costs and resources.
 
-🌐 Live Portfolio
-View my portfolio here:https:Dev-Life/github.io
+🌐 Live Portfolio[
+View my portfolio here:https://phmw7.github.io/Dev-Life
 
 
 📫 Connect with Me
