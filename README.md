@@ -3,6 +3,7 @@ Welcome to my Cloud and DevOps portfolio!
 This site showcases hands-on projects and practical experience across AWS, Azure, Terraform, Git, and DevOps workflows.
 
 🚀 About Me
+
 I'm a passionate Cloud and DevOps Engineer with a strong foundation in deploying scalable applications, automating infrastructure, and applying DevOps principles across multi-cloud environments.
 
 🛠️ Skills and Tools
